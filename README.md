@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 👋
 
-- 🔭 I’m currently working and looking into edge AI! : machine learning on resource-constrained devices :)
-- 👯 I’m looking to collaborate on topics in edge AI, geospatial AI and research-based drone mapping!
+- 🔭 I’m currently working and looking into edge AI! : machine learning on resource-constrained devices 
+- 👯 Let's collaborate on topics in edge AI, geospatial AI and research-based drone mapping :)
 - 🔍 I’m looking out for PhD studentships on machine learning, IoT and/or geospatial AI! Here is [my resume/CV](https://allanvikiru.github.io/assets/docs/CV.pdf)
 - 📫 Feel free to send me a message through [this form](https://allanvikiru.github.io/#contact)!
 - 🤠 Pronouns: he/him/his
